@@ -389,7 +389,7 @@ nav.show div.icon-close {
 
 .swiper-slide {
   height: auto;
-  width:auto;
+  width: 60rem;
   padding: 2rem 4rem 2rem 4rem;
 }
 
