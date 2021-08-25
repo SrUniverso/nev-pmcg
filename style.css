@@ -383,7 +383,7 @@ nav.show div.icon-close {
 /* Swiper */
 
 .swiper-container {
-  width: 60rem;
+  width: auto;
   height: auto;
 }
 
