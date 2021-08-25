@@ -46,7 +46,7 @@ const swiper = new Swiper('.swiper-container', {
     maxRatio: 5
   },
   zoom: true,
-  mousewheel: true,
+  mousewheel: false,
   keyboard: true,
   breakpoints: {
     767: {
