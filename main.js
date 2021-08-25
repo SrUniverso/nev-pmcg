@@ -37,16 +37,16 @@ const swiper = new Swiper('.swiper-container', {
     el: '.swiper-pagination'
   },
 
-  navigation: {
-    nextEl: '.swiper-button-next',
-    prevEl: '.swiper-button-prev'
-  },
+//   navigation: {
+//     nextEl: '.swiper-button-next',
+//     prevEl: '.swiper-button-prev'
+//   },
 
   zoom: {
     maxRatio: 5
   },
   zoom: true,
-  mousewheel: false,
+  mousewheel: true,
   keyboard: true,
   breakpoints: {
     767: {
